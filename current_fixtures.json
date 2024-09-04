@@ -1,0 +1,82 @@
+[
+    {
+        "home_team": "Southampton",
+        "away_team": "Manchester United",
+        "date": "2024-09-14 12:30",
+        "odds_win": 4.5,
+        "odds_draw": 3.75,
+        "odds_lose": 1.75
+    },
+    {
+        "home_team": "Manchester City",
+        "away_team": "Brentford",
+        "date": "2024-09-14 15:00",
+        "odds_win": 1.18,
+        "odds_draw": 7.5,
+        "odds_lose": 13.0
+    },
+    {
+        "home_team": "Brighton and Hove Albion",
+        "away_team": "Ipswich Town",
+        "date": "2024-09-14 15:00",
+        "odds_win": 1.36,
+        "odds_draw": 5.0,
+        "odds_lose": 8.5
+    },
+    {
+        "home_team": "Crystal Palace",
+        "away_team": "Leicester City",
+        "date": "2024-09-14 15:00",
+        "odds_win": 1.61,
+        "odds_draw": 4.0,
+        "odds_lose": 5.5
+    },
+    {
+        "home_team": "Fulham",
+        "away_team": "West Ham United",
+        "date": "2024-09-14 15:00",
+        "odds_win": 2.5,
+        "odds_draw": 3.4,
+        "odds_lose": 2.8
+    },
+    {
+        "home_team": "Liverpool",
+        "away_team": "Nottingham Forest",
+        "date": "2024-09-14 15:00",
+        "odds_win": 1.2,
+        "odds_draw": 6.5,
+        "odds_lose": 13.0
+    },
+    {
+        "home_team": "Aston Villa",
+        "away_team": "Everton",
+        "date": "2024-09-14 17:30",
+        "odds_win": 1.5,
+        "odds_draw": 4.33,
+        "odds_lose": 6.0
+    },
+    {
+        "home_team": "Bournemouth",
+        "away_team": "Chelsea",
+        "date": "2024-09-14 20:00",
+        "odds_win": 3.4,
+        "odds_draw": 3.75,
+        "odds_lose": 2.0
+    },
+    {
+        "home_team": "Tottenham Hotspur",
+        "away_team": "Arsenal",
+        "date": "2024-09-15 14:00",
+        "odds_win": 3.5,
+        "odds_draw": 3.6,
+        "odds_lose": 2.0
+    },
+    {
+        "home_team": "Wolverhampton Wanderers",
+        "away_team": "Newcastle United",
+        "date": "2024-09-15 16:30",
+        "odds_win": 3.4,
+        "odds_draw": 3.5,
+        "odds_lose": 2.1
+    }
+]
